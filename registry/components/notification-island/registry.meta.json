@@ -1,0 +1,7 @@
+{
+  "title": "Notification Island",
+  "tagline": "OxygenOS Live Alerts inspired notification island",
+  "description": "An OxygenOS Live Alerts-inspired notification island for web apps. Expands on incoming alerts, steps through queued items with a split arrow pill, and opens a persistent notification drawer.",
+  "dependencies": ["motion", "lucide-react"],
+  "registryDependencies": []
+}

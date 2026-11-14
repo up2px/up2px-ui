@@ -1,0 +1,23 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry.json",
+  "name": "up2px-ui",
+  "homepage": "https://ui.up2px.com",
+  "items": [
+    {
+      "name": "notification-island",
+      "title": "Notification Island",
+      "description": "An OxygenOS Live Alerts-inspired notification island for web apps. Expands on incoming alerts, steps through queued items with a split arrow pill, and opens a persistent notification drawer.",
+      "type": "registry:ui",
+      "dependencies": [
+        "motion",
+        "lucide-react"
+      ],
+      "registryDependencies": [],
+      "files": [
+        "index.tsx",
+        "notification-card.tsx",
+        "use-notifications.ts"
+      ]
+    }
+  ]
+}
